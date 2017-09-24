@@ -29,6 +29,6 @@ pyspark-on-databricks
 ## Running on Databricks
 
 ## Readings
-[Customer segmentation based on a collaborative recommendation system: Application to a mass retail company](https://www.ig.fpms.ac.be/sites/default/files/Customer%20segmentation%20based%20on%20a%20collaborative%20recommendation%20system:%20Application%20to%20a%20mass%20retail%20company_0.pdf).
-[Amazon.com Recommendations](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf).
+- [Customer segmentation based on a collaborative recommendation system: Application to a mass retail company](https://www.ig.fpms.ac.be/sites/default/files/Customer%20segmentation%20based%20on%20a%20collaborative%20recommendation%20system:%20Application%20to%20a%20mass%20retail%20company_0.pdf).
+- [Amazon.com Recommendations](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf).
 
