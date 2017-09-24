@@ -21,12 +21,10 @@ The next step is to improve the recommendation performance.
 * Built With:
 pyspark-on-databricks
 
-## Databricks
-
-## Spark ALS algorithm
-
 ## Dataset
 [Amazon's data set](http://jmcauley.ucsd.edu/data/amazon/).
+
+## Spark ALS algorithm
 
 ## Running on Databricks
 
