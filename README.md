@@ -23,4 +23,4 @@ What's next for Customer Segmentation Using ALS Algorithm�
 The next step is to improve the recommendation performance.
 
 Built With:
-pyspark-on-databricks-plateform
+pyspark-on-databricks
