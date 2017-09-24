@@ -21,3 +21,13 @@ The next step is to improve the recommendation performance.
 
 Built With:
 pyspark-on-databricks
+
+Databricks:
+
+Spark ALS algorithm:
+
+Dataset:
+
+Running on Databricks:
+
+Readings:
