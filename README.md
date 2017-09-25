@@ -35,5 +35,6 @@ pyspark-on-databricks
 ## Readings
 - [Customer segmentation based on a collaborative recommendation system: Application to a mass retail company](https://www.ig.fpms.ac.be/sites/default/files/Customer%20segmentation%20based%20on%20a%20collaborative%20recommendation%20system:%20Application%20to%20a%20mass%20retail%20company_0.pdf).
 - [Collaborative Filtering](http://spark.apache.org/docs/2.2.0/mllib-collaborative-filtering.html#collaborative-filtering).
+- [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html).
 - [Amazon.com Recommendations](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf).
 
