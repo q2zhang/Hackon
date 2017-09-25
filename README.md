@@ -22,11 +22,13 @@ The next step is to improve the recommendation performance.
 pyspark-on-databricks
 
 ## Dataset
-[Amazon's data set](http://jmcauley.ucsd.edu/data/amazon/). provides reviews and metadate from 1996 to 2014. It contain big data sets and small data sets. I used the autotive 5-core data set which can be downloaded for this web site.
+[Amazon's data set](http://jmcauley.ucsd.edu/data/amazon/). provides reviews and metadate from 1996 to 2014. It contain big data sets and small data sets. I used the automotive 5-core data set which can be downloaded for this web site.
 
 
 ## Running on Databricks
-First, you can download the data set to your computer, and then import the data set to the data bricks plateform. [Importing data](https://docs.databricks.com/user-guide/importing-data.html). After import the Python notebook, you can run the codes.
+- you can download the data set to your computer
+- import the data set to the data bricks plateform. [Importing data](https://docs.databricks.com/user-guide/importing-data.html). 
+- After import the Python notebook, you can run the codes.
 
 
 ## Readings
