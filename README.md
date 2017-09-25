@@ -26,8 +26,8 @@ pyspark-on-databricks
 
 
 ## Running on Databricks
-- you can download the data set to your computer
-- import the data set to the data bricks plateform. [Importing data](https://docs.databricks.com/user-guide/importing-data.html). 
+- Download the data set to your computer
+- Import the data set to the data bricks plateform. [Importing data](https://docs.databricks.com/user-guide/importing-data.html). 
 - After import the Python notebook, you can run the codes.
 
 
