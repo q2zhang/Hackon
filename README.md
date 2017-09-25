@@ -1,5 +1,6 @@
-## Hackon day project 2017
+# Hackon day project 2017
 
+## About
 * What it does: 
 It uses the Spark ALS recommendation algorithm to segment customers. The algorithm segments the customers based on their predicted ratings. It finds users who have top predicted ratings for a particular item.
 
