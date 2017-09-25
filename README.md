@@ -27,6 +27,7 @@ pyspark-on-databricks
 
 
 ## Running on Databricks
+- If you don't have an account for data bricks platform, register a spark data bricks account. Community account is free of charge, which is enough for running the code.
 - Download the data set to your computer
 - Import the data set to the data bricks plateform. See how to [Importing data](https://docs.databricks.com/user-guide/importing-data.html). 
 - After import the Python notebook, you can run the codes.
