@@ -20,7 +20,7 @@ I have found that performing training/validation/testing on a data set that is r
 The next step is to improve the recommendation performance.
 
 * Built With:
-pyspark-on-databricks
+Pyspark-on-Databricks
 
 ## Dataset
 [Amazon's data set](http://jmcauley.ucsd.edu/data/amazon/). provides reviews and metadate from 1996 to 2014. It contain big data sets and small data sets. I used the automotive 5-core data set which can be downloaded for this web site.
