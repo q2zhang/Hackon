@@ -2,7 +2,7 @@
 
 ## About
 * What is the goal:
-Explore Apache spark's ASL in application.
+Explore Apache spark's ASL algorithm in different application.
 
 * What it does: 
 It uses the Spark ALS recommendation algorithm to segment customers. The algorithm segments the customers based on their predicted ratings. It finds users who have top predicted ratings for a particular item.
